@@ -2,6 +2,12 @@
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
 
+## Demo
+
+https://github.com/visalakshi2008/Linkedin-AI-Reply-Chrom-Extension---Visalakshi/assets/58606388/eca40f25-2354-424a-abf5-ba5c103c7fa0
+
+
+
 ## Getting Started
 
 First, run the development server:
@@ -15,12 +21,6 @@ npm run dev
 See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#loading-the-extension
 
 For further guidance, [visit our Documentation](https://docs.plasmo.com/).
-
-## Where to edit?
-
-- The main code is located in src/content.tsx. By default, when you run the extension, it displays a static count button on the LinkedIn website. You need to replace it with your own code.
-
-![count btn on linkedin](count_btn_on_linkedin.png)
 
 ## Making production build
 
