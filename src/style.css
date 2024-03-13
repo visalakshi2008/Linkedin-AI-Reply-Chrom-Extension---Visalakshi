@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap");
+
+/* Icon wrapper style */
+.icon-wrapper {
+    display: inline-block;
+    border: 2px solid transparent; /* Add a transparent border */
+    border-radius: 50%; /* Make the wrapper round */
+    padding: 2px; /* Adjust padding to make the border visible */
+    width: 24px; /* Set the width of the wrapper */
+    height: 24px; /* Set the height of the wrapper */
+  }
+  
+  /* Icon image style */
+  .icon-image {
+    width: 100%; /* Set the width to fill the wrapper */
+    height: auto; /* Automatically adjust height to maintain aspect ratio */
+    max-width: 100%; /* Ensure the icon does not exceed its container */
+    max-height: 100%; /* Ensure the icon does not exceed its container */
+    border-radius: 50%; /* Make the icon image round */
+  }
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  
